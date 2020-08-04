@@ -8,6 +8,8 @@ describe('WP Login test', () => {
       cy.get('#wp-submit').click()
 
       //Add new article
-      cy.get('').click()
+      cy.get('#menu-posts').click()
+      cy.get('.page-title-action').click()
+
     })
   })
