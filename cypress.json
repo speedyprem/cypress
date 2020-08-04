@@ -1,0 +1,13 @@
+{
+    "projectId": "cypress-tutorials",
+    "video": true,
+    "viewportWidth": 1280,
+    "viewportHeight": 800,
+    "trashAssetsBeforeRuns": true,
+    "defaultCommandTimeout": 20000,
+    "pageLoadTimeout": 80000,
+    "requestTimeout": 20000,
+    "responseTimeout": 20000,
+    "integrationFolder": "functional"
+  }
+  
